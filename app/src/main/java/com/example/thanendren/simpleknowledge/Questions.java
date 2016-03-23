@@ -19,9 +19,9 @@ public class Questions extends AppCompatActivity {
     Button button2;
     RadioButton RadioButton, RadioButton2, RadioButton3;
 
-    public static String questions[]={"First Question?","Second Question?", "Third Question?"};
-    String ans[]={"First Answer","Second Answer","Third Answer"};
-    String opt[]={"First Answer","1w","1w","2w","2w","Second Answer","3w","Third Answer","3w"};
+    public static String questions[]={"First Question?","Second Question?", "Third Question?","Fourth Question"};
+    String ans[]={"First Answer","Second Answer","Third Answer","Fourth Answer"};
+    String opt[]={"First Answer","1w","1w","2w","2w","Second Answer","3w","Third Answer","3w","4w","4w","Fourth Answer"};
 
     int position=0;
     public static int correct;
