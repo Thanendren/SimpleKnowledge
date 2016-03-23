@@ -9,4 +9,5 @@
     <string name="BeginText">Let us Begin</string>
     <string name="QuestionText">Question</string>
     <string name="NextQuestionText">Next Question</string>
+    <string name="restarttext">Restart</string>
 </resources>
